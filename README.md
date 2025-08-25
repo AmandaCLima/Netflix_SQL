@@ -1,4 +1,7 @@
 # Netflix Data Analysis with PostgreSQL
+<div align="center">
+  <img width="318" height="159" alt="download" src="https://github.com/user-attachments/assets/678ba5ea-de14-4a14-9a39-2c3e9f04eee9" />
+</div>
 
 This repository contains a comprehensive Exploratory Data Analysisof the Netflix Movies and TV Shows dataset using PostgreSQL. The project is structured around 15 common business questions, showcasing a wide range of SQL techniques from basic filtering and aggregation to advanced analytics like window functions and full-text search.
 
